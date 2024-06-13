@@ -1,0 +1,1 @@
+<h1>Diamond Value: {{ $value }}</h1>
